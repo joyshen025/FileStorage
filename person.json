@@ -1,0 +1,15 @@
+{
+    "firstname": "Joy",
+    "gender":true,
+    "height":180,
+    "email":"joyshen1121@gmail.com",
+    "city":{
+        "通訊地址":"新竹",
+        "戶籍地址":"新竹"
+    },
+    "phone":{
+        "市話":"035994589",
+        "行動電話":"0905062425"
+    },
+    "cars":{"Model X"}
+}
